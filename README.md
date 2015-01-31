@@ -11,6 +11,11 @@ mutation in progress...
 
 stand by...
 
+>https://gitter.im/noviceapp-com/this-unholy-communion?utm_source=share-link&utm_medium=link&utm_campaign=share-link
+>
+>[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/noviceapp-com/this-unholy-communion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+
 <iframe scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/39962804&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true" frameborder="no" height="300" width="100%"></iframe>
 
 ---
