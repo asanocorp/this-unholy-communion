@@ -1,5 +1,7 @@
 # /* this-unholy-communion */
 
+[![Join the chat at https://gitter.im/noviceapp-com/this-unholy-communion](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/noviceapp-com/this-unholy-communion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 README.md
 
 was conceived during botched genetic experiment involving [scrollpath.js](https://github.com/JoelBesada/scrollpath) with nice and easy digital graphic mutilation and game ...
