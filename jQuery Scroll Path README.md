@@ -1,6 +1,6 @@
 jQuery Scroll Path
 ==================
-**NOTE: I am no longer maintaining this project. If anyone is interested in resurrecting this, please contact me on Twitter ([@JoelBesada](https://twitter.com/joelbesada)) or send an email to the address found on my GitHub profile.** 
+**NOTE: I am no longer maintaining this project. If anyone is interested in resurrecting this, please contact me on Twitter ([@JoelBesada](https://twitter.com/joelbesada)) or send an email to the address found on my GitHub profile.**
 
 A jQuery plugin for defining a custom path that the browser
 follows when scrolling.
@@ -8,8 +8,8 @@ follows when scrolling.
 Demo: http://joelb.me/scrollpath
 
 Author: Joel Besada (http://www.joelb.me)  
-Version: 1.1.1 (2012-02-20)   
-Copyright 2012, Joel Besada   
+Version: 1.1.1 (2012-02-20)
+Copyright 2012, Joel Besada
 
 MIT Licensed (http://www.opensource.org/licenses/mit-license.php)
 
@@ -30,12 +30,12 @@ Using the Plugin
 ---------------
 This guide aims to help you with getting started using the plugin. In addition to reading this, it's recommended that you check out the marked section of the _script/demo.js_ file, for a usage example.
 ### The Files
-To include the plugin on your page, grab the _jquery.scrollpath.js_ file from the _script/_ folder of this repo, or the [minified version](http://joelb.me/scrollpath/jquery.scrollpath.min.js). If you want to include the scrollbar, make sure to include the _scrollpath.css_ stylesheet from _style/_ as well. 
+To include the plugin on your page, grab the _jquery.scrollpath.js_ file from the _script/_ folder of this repo, or the [minified version](http://joelb.me/scrollpath/jquery.scrollpath.min.js). If you want to include the scrollbar, make sure to include the _scrollpath.css_ stylesheet from _style/_ as well.
 
 __Note: This plugin requires jQuery 1.7+__
 
 ### Drawing the Path
-To start drawing your path, we need to get the `Path` object from the plugin. This is done by calling `$.fn.scrollPath("getPath");`, which returns the object. For anyone who has used canvas before, you can think of the `Path` object the same way as the canvas context object. 
+To start drawing your path, we need to get the `Path` object from the plugin. This is done by calling `$.fn.scrollPath("getPath");`, which returns the object. For anyone who has used canvas before, you can think of the `Path` object the same way as the canvas context object.
 
 You can also change the default scrolling speeds by adding an object as a parameter with `scrollSpeed` and `rotationSpeed` properties set:
 
@@ -53,7 +53,7 @@ The `Path` object has a number of methods for drawing the path. The moveTo, line
 Moves the center of the screen to a specified coordinate. This is done in a single step (i.e. the screen 'jumps' to the given point).
 
 #### lineTo( x, y [,options] )
-Draws a straight line from the current position to the given point. 
+Draws a straight line from the current position to the given point.
 
 #### arc( centerX, centerY, radius, startAngle, endAngle, counterclockwise [,options] )
 Draws an arc with its center at coordinate (centerX, centerY) with the given radius. The start and end angles are in radians, and the counterclockwise boolean decides which direction the path is drawn between the angles. If the starting point of the arc isn't the same as the end point of the preceding path, a straight line is automatically drawn between the points.
@@ -77,7 +77,7 @@ Here is an example of a named path, rotating a full rotation along a line and fi
 	});
 
 ### Initializing the Plugin
-Once you're done drawing your path on the `Path` object, all that's left to do is to initialize the plugin on a container element which contains all the elements you want to scroll around. When you're doing this, there are three more settings that can be changed: `drawPath`, `wrapAround` and `scrollBar`. 
+Once you're done drawing your path on the `Path` object, all that's left to do is to initialize the plugin on a container element which contains all the elements you want to scroll around. When you're doing this, there are three more settings that can be changed: `drawPath`, `wrapAround` and `scrollBar`.
 
 The `drawPath` boolean decides whether a canvas overlay with the path should be drawn. This can be used to make it easier for you to see exactly how the path you've made looks, and should probably only be used for debugging purposes. This is set to `false` by default.
 
@@ -99,8 +99,8 @@ __You should now have everything set up and ready to go!__
 
 ### Scrolling Programmatically (Animations)
 	$.fn.scrollPath( "scrollTo", name [, duration, easing, complete] );
-	
-Once the plugin has been initialized, you can use the `scrollTo` method above to animate or jump (with `duration` set to 0) to given points in the path. These points are specified with the name parameter, which you can set on the different path end-points while creating the path. 
+
+Once the plugin has been initialized, you can use the `scrollTo` method above to animate or jump (with `duration` set to 0) to given points in the path. These points are specified with the name parameter, which you can set on the different path end-points while creating the path.
 
 The last three parameters `duration, easing, complete` work the same way as the [jQuery .animate() method](http://api.jquery.com/animate/). You can use custom easing functions by for example including the popular [jQuery Easing Plugin](http://gsgd.co.uk/sandbox/jquery/easing/) in your project. Here's an example using an easing function from the plugin:
 
