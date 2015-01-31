@@ -4,7 +4,7 @@ README.md
 
 was conceived during botched genetic experiment involving [scrollpath.js](https://github.com/JoelBesada/scrollpath) with nice and easy digital graphic mutilation and game ...
 ... well do you punk?
-[this is a template file.../* update/remove url */](https://github.com/weAreThePlayMakers/this-unholy-communion-000-00)
+[source](https://github.com/weAreThePlayMakers/this-unholy-communion)
 [![ecceHomo-2013](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/ecceHomoIcon2013.jpg)](http://noviceapp.com/eccehomo/#/)
 
 mutation in progress...
