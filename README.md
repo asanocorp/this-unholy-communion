@@ -1,8 +1,7 @@
 # /* this-unholy-communion */
 
-[![Join the chat at https://gitter.im/noviceapp-com/this-unholy-communion](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/noviceapp-com/this-unholy-communion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Stories in Ready](https://badge.waffle.io/noviceapp-com/this-unholy-communion.png?label=ready&title=Ready)](https://waffle.io/noviceapp-com/this-unholy-communion) 
+[![Join the chat at https://gitter.im/noviceapp-com/this-unholy-communion](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/noviceapp-com/this-unholy-communion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Stories in Ready](https://badge.waffle.io/noviceapp-com/this-unholy-communion.png?label=ready&title=Ready)](https://waffle.io/noviceapp-com/this-unholy-communion)
 
-README.md
 
 was conceived during botched genetic experiment involving [scrollpath.js](https://github.com/JoelBesada/scrollpath) with nice and easy digital graphic mutilation and game ...
 ... well do you punk?
@@ -14,8 +13,7 @@ mutation in progress...
 stand by...
 
 
->
->[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/noviceapp-com/this-unholy-communion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Join the chat at https://gitter.im/noviceapp-com/this-unholy-communion](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/noviceapp-com/this-unholy-communion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Stories in Ready](https://badge.waffle.io/noviceapp-com/this-unholy-communion.png?label=ready&title=Ready)](https://waffle.io/noviceapp-com/this-unholy-communion)
 
 
 <iframe scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/39962804&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true" frameborder="no" height="300" width="100%"></iframe>
