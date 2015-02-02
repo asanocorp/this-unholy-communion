@@ -55,7 +55,7 @@ function init() {
 		var target = $(this).attr("href").replace("#", "");
 		$(this).click(function(e) {
 			e.preventDefault();
-			
+
 			// Include the jQuery easing plugin (http://gsgd.co.uk/sandbox/jquery/easing/)
 			// for extra easing functions like the one below
 			$.fn.scrollPath("scrollTo", target, 1000, "easeInOutSine");
