@@ -5,7 +5,7 @@
 this unholy communion is a result of botched genetic experiment involving [.svg](http://www.w3schools.com/svg/default.asp) with nice and easy form of digital graphic mutilation plus [.js](http://www.w3schools.com/js/)  ...
 ... well ... do you punk?
 [see the text](https://github.com/noviceapp-com/this-unholy-communion)
-[![this-unholy-communion-logo](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/ecceHomoIcon2013.jpg)](https://github.com/noviceapp-com/this-unholy-communion)
+[![this-unholy-communion-logo](assets/init-img/funkyBrendaDar-Icons-001-1-01_cleaned.svg)](https://github.com/noviceapp-com/this-unholy-communion)
 
 mutation in progress...
 
