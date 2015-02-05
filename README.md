@@ -2,10 +2,10 @@
 
 [![Join the chat at https://gitter.im/noviceapp-com/this-unholy-communion](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/noviceapp-com/this-unholy-communion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) - [![Stories in Ready](https://badge.waffle.io/noviceapp-com/this-unholy-communion.svg?label=ready&title=Ready)](http://waffle.io/noviceapp-com/this-unholy-communion)
 
-this unholy communion is a result of botched genetic experiment involving [scrollpath.js](https://github.com/JoelBesada/scrollpath) with nice and easy form of digital graphic mutilation and game  ...
+this unholy communion is a result of botched genetic experiment involving [.svg](http://www.w3schools.com/svg/default.asp) with nice and easy form of digital graphic mutilation plus [.js](http://www.w3schools.com/js/)  ...
 ... well ... do you punk?
 [see the text](https://github.com/noviceapp-com/this-unholy-communion)
-[![this-unholy-communion-logo](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/ecceHomoIcon2013.jpg)](http://noviceapp.com/eccehomo/#/)
+[![this-unholy-communion-logo](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/ecceHomoIcon2013.jpg)](https://github.com/noviceapp-com/this-unholy-communion)
 
 mutation in progress...
 
