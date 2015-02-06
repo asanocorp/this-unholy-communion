@@ -257,6 +257,7 @@ header h2 {
 /* see the fancy panel in top left corner? well, the css below is what makes it look the way it does so you might want to change it but really, is there any point in doing it? */
 
 #info {
+    text-align: center;
     font-size: 12px;
     position: absolute;
     z-index: 1;
