@@ -1,29 +1,30 @@
   <svg id="back-gradient" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" viewBox="0 0 200 200" style="enable-background:new 0 0 600 800">
     <defs>
         <radialGradient id="rgA" gradientUnits="userSpaceOnUse" cx="100" cy="100" r="150" spreadMethod="repeat">
-            <stop offset="0" stop-color="#000">
-                <animate id="anim" attributeName="stop-opacity" calcMode="linear" begin="0s" dur="1s" values="0;1;0" keitimes="0;0.5;1" repeatCount="indefinite"/>
+            <stop offset="0" stop-color="#fff">
+                <animate id="anim" attributeName="stop-opacity" calcMode="linear" begin="0s" dur="20s" values="0;1;0.7" keitimes="0;0.5;1" repeatCount="indefinite"/>
             </stop>
-            <stop stop-color="#003366">
-                <animate attributeName="offset" calcMode="linear" begin="0s" dur="20s" values="0;0;1" keitimes="0;1;2" repeatCount="indefinite"/>
-                <animate attributeName="stop-opacity" calcMode="linear" begin="0s" dur="20s" values="0;1;1" keitimes="0;1;2" repeatCount="indefinite"/>
+            <stop stop-color="#ffff99">
+                <animate attributeName="offset" calcMode="linear" begin="0s" dur="20s" values="1;0;1" keitimes="0;0.5;1" repeatCount="indefinite"/>
+                <animate attributeName="stop-opacity" calcMode="linear" begin="0s" dur="20s" values="0;1;1" keitimes="0;0.5;1" repeatCount="indefinite"/>
             </stop>
-            <stop stop-color="#cc3300" stop-opacity="0">
+            <stop stop-color="#ff3333" stop-opacity="0.7">
                 <animate attributeName="offset" calcMode="linear" begin="0s" dur="20s" values="0;1" keitimes="0;1" repeatCount="indefinite"/>
             </stop>
-            <stop stop-color="#000033">
-                <animate attributeName="offset" calcMode="linear" begin="0s" dur="20s" values="1;1;1" keitimes="0;1;1" repeatCount="indefinite"/>
+            <stop stop-color="#333366">
+                <animate attributeName="offset" calcMode="linear" begin="0s" dur="20s" values="1;0;1" keitimes="0;1;1" repeatCount="indefinite"/>
                 <animate attributeName="stop-opacity" calcMode="linear" begin="0s" dur="20s" values="1;1;0" keitimes="0;1;1" repeatCount="indefinite"/>
             </stop>
-            <stop offset="1" stop-color="#000099">
+            <stop offset="1" stop-color="#cc3333">
                 <animate attributeName="stop-opacity" calcMode="linear" begin="0s" dur="20s" values="0;1;0" keitimes="0;1;1" repeatCount="indefinite"/>
             </stop>
         </radialGradient>
-        <radialGradient id="rgB" gradientUnits="userSpaceOnUse" cx="100" cy="100" r="200">
-            <stop offset="50%" stop-opacity="0.5"/>
-            <stop offset="150%" stop-opacity="0.7"/>
+        <radialGradient id="rgB" gradientUnits="userSpaceOnUse" cx="100" cy="100" r="700">
+            <stop offset="50%" stop-opacity="0.4"/>
+            <stop offset="150%" stop-opacity="0.2"/>
         </radialGradient>
     </defs>
- <circle id="circ" cx="100" cy="100" r="200" fill="url(#rgA)"/>
- <circle id="circ2" cx="100" cy="100" r="200" fill="url(#rgB)"/>
+      <image xlink:href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/classy_fabric_500x315_blue.gif" x="0" y="0" height="720" width="100%"/>
+ <circle id="circ" cx="100" cy="100" r="800" fill="url(#rgA)"/>
+ <circle id="circ2" cx="100" cy="100" r="600" fill="url(#rgB)"/>
 </svg>
