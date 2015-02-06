@@ -1,0 +1,112 @@
+{
+	"name": "init-comp-005-01-canvas.ai",
+	"width": 850,
+	"height": 1150,
+	"layers": [
+		{
+			"x": "67.92",
+			"y": "73.84",
+			"r": "789.50",
+			"b": "1067.33",
+			"width": "721.58",
+			"height": "993.49",
+			"layername": "Layer 1",
+			"name": "Layer-1",
+			"type": "div",
+			"visible": true,
+			"items": [
+				{
+					"x": 420.76,
+					"y": 495.66,
+					"r": "789.50",
+					"b": "1065.14",
+					"width": "300.82",
+					"height": "495.64",
+					"layername": "7th.svg",
+					"name": "7th",
+					"type": "svg",
+					"filename": "7th.svg",
+					"visible": true
+				},
+				{
+					"x": 283.86,
+					"y": 625.07,
+					"r": "482.13",
+					"b": "1063.03",
+					"width": "130.35",
+					"height": "364.13",
+					"layername": "6th.svg",
+					"name": "6th",
+					"type": "svg",
+					"filename": "6th.svg",
+					"visible": true
+				},
+				{
+					"x": 21.08,
+					"y": 621.62,
+					"r": "368.04",
+					"b": "1067.33",
+					"width": "279.04",
+					"height": "371.87",
+					"layername": "5th.svg",
+					"name": "5th",
+					"type": "svg",
+					"filename": "5th.svg",
+					"visible": true
+				},
+				{
+					"x": 0,
+					"y": 380.67,
+					"r": "503.06",
+					"b": "691.99",
+					"width": "435.14",
+					"height": "237.47",
+					"layername": "4th.svg",
+					"name": "4th",
+					"type": "svg",
+					"filename": "4th.svg",
+					"visible": true
+				},
+				{
+					"x": 431.3,
+					"y": 0,
+					"r": "759.98",
+					"b": "565.91",
+					"width": "260.76",
+					"height": "492.07",
+					"layername": "3rd.svg",
+					"name": "3rd",
+					"type": "svg",
+					"filename": "3rd.svg",
+					"visible": true
+				},
+				{
+					"x": 218.75,
+					"y": 3.13,
+					"r": "520.33",
+					"b": "502.00",
+					"width": "233.67",
+					"height": "425.03",
+					"layername": "2nd.svg",
+					"name": "2nd",
+					"type": "svg",
+					"filename": "2nd.svg",
+					"visible": true
+				},
+				{
+					"x": 25,
+					"y": 4.75999999999999,
+					"r": "289.64",
+					"b": "447.17",
+					"width": "196.72",
+					"height": "368.57",
+					"layername": "1st.svg",
+					"name": "1st",
+					"type": "svg",
+					"filename": "1st.svg",
+					"visible": true
+				}
+			]
+		}
+	]
+}
