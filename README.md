@@ -1,9 +1,20 @@
 # /* this-unholy-communion */
 
-this unholy communion is a result of botched genetic experiment involving [.svg](http://www.w3schools.com/svg/default.asp) with nice and easy form of digital graphic mutilation plus [.js](http://www.w3schools.com/js/)  ...
+brings together svg scripting + css3 + js unleashed on the material by parowski, rodek, polch from awesome
+
+[![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/funky-koval-logo-03_cleaned.svg)](http://en.wikipedia.org/wiki/Funky_Koval)
+
+- "Bez oddechu" (Without rest)
+- "Sam przeciw wszystkim" (Alone against everyone)
+- "Wbrew sobie" (Against oneself)
+- "Wrogie przejęcie" (Hostile takeover)
+- 
+
+it is a result of botched genetic experiment involving [.svg](http://www.w3schools.com/svg/default.asp) with nice and easy form of digital graphic mutilation plus [.js](http://www.w3schools.com/js/)  ...
 ... well ... do you punk?
 see the demo [on codepen](http://codepen.io/rafszul/full/EawzWN) or [plnkr.co](http://embed.plnkr.co/leY8hS/preview).
-[![this-unholy-communion-logo](img/init-comp-005-01-canvas-svg/img/init-comp-005-01-canvas-01_cleaned.svg)](https://github.com/noviceapp-com/this-unholy-communion)
+[![this-unholy-communion-logo](img/funky-koval-logo-03_cleaned.svg)](https://github.com/noviceapp-com/this-unholy-communion)
+
 
 mutation in progress...
 
