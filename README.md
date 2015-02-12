@@ -1,4 +1,4 @@
-# /* this-unholy-communion */
+/* this-unholy-communion */
 
 brings together svg scripting + css3 + js unleashed on the material by parowski, rodek, polch from awesome
 
@@ -8,11 +8,12 @@ brings together svg scripting + css3 + js unleashed on the material by parowski,
 - "Sam przeciw wszystkim" (Alone against everyone)
 - "Wbrew sobie" (Against oneself)
 - "Wrogie przejęcie" (Hostile takeover)
--
 
-it is a result of botched genetic experiment involving [.svg](http://www.w3schools.com/svg/default.asp) with nice and easy form of digital graphic mutilation plus [.js](http://www.w3schools.com/js/)  ...
+---
+
+the composition is a result of botched genetic experiment involving [.svg](http://www.w3schools.com/svg/default.asp) with nice and easy form of digital graphic mutilation plus [.js](http://www.w3schools.com/js/)  ...
 ... well ... do you punk?
-see the demo [on codepen](http://codepen.io/rafszul/full/EawzWN) or [plnkr.co](http://embed.plnkr.co/leY8hS/preview).
+see the demo [on codepen](http://codepen.io/rafszul/full/EawzWN), download the code on [plnkr.co](http://embed.plnkr.co/leY8hS/preview) or [download the latest version from github](https://github.com/noviceapp-com/this-unholy-communion/).
 [![this-unholy-communion-all](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/init-comp-003-01-all-01_cleaned-defs.svg)](https://github.com/noviceapp-com/this-unholy-communion)
 
 
@@ -26,3 +27,4 @@ stand by...
 
 
 > written by [rafszul](https://github.com/rafszul) and [weAreThePlayMakers](http://wearetheplaymakers.com/) with [StackEdit](https://stackedit.io/).
+
