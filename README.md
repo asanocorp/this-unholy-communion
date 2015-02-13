@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 #/* this-unholy-communion */
+=======
+deprecated see -> [/* this-unholy-communion */](https://github.com/noviceapp-com/this-unholy-communion)
+
+[![this-unholy-communion-all](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/init-comp-003-01-all-01_cleaned-defs.svg)](https://github.com/noviceapp-com/this-unholy-communion)
+
+# /* this-unholy-communion */
+>>>>>>> FETCH_HEAD
 
 brings together svg scripting + css3 + js unleashed on the material by parowski, rodek, polch from awesome
 
