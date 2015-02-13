@@ -2,13 +2,13 @@
     <defs>
         <radialGradient id="rgA" gradientUnits="userSpaceOnUse" cx="100" cy="100" r="150" spreadMethod="repeat">
             <stop offset="0" stop-color="#000">
-                <animate id="anim" attributeName="stop-opacity" calcMode="linear" begin="0s" dur="1s" values="0;1;0" keitimes="0;0.5;1" repeatCount="indefinite"/>
+                <animate id="anim" attributeName="stop-opacity" calcMode="linear" begin="0s" dur="20s" values="0;1;0" keitimes="0;0.5;1" repeatCount="indefinite"/>
             </stop>
             <stop stop-color="#003366">
                 <animate attributeName="offset" calcMode="linear" begin="0s" dur="20s" values="0;0;1" keitimes="0;1;2" repeatCount="indefinite"/>
                 <animate attributeName="stop-opacity" calcMode="linear" begin="0s" dur="20s" values="0;1;1" keitimes="0;1;2" repeatCount="indefinite"/>
             </stop>
-            <stop stop-color="#cc3300" stop-opacity="0">
+            <stop stop-color="#05066b" stop-opacity="0">
                 <animate attributeName="offset" calcMode="linear" begin="0s" dur="20s" values="0;1" keitimes="0;1" repeatCount="indefinite"/>
             </stop>
             <stop stop-color="#000033">
