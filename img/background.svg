@@ -25,5 +25,4 @@
         </radialGradient>
     </defs>
  <circle id="circ" cx="100" cy="100" r="200" fill="url(#rgA)"/>
- <circle id="circ2" cx="100" cy="100" r="200" fill="url(#rgB)"/>
 </svg>
